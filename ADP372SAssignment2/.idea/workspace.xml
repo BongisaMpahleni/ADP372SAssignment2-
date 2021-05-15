@@ -4,25 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="344b787c-2d42-4825-81e5-b46cbd62b02b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StudentDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StudentDetailsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/Assignment2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled" afterDir="false" />
+    <list default="true" id="344b787c-2d42-4825-81e5-b46cbd62b02b" name="Default Changelist" comment="addded classes and code">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentProject2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentProject2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentProject2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentProject2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentProject2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentProject2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentProject2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentProject2/src/main/java/CollectionClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentProject2/src/main/java/ListClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentProject2/src/main/java/MapClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentProject2/src/main/java/SetClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentProject2/src/main/java/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentProject2/target/classes/CollectionClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentProject2/target/classes/ListClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentProject2/target/classes/MapClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentProject2/target/classes/SetClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentProject2/target/classes/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Event-registration" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project-3-Group-16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +134,14 @@
       <option name="presentableId" value="Default" />
       <updated>1621037075948</updated>
     </task>
+    <task id="LOCAL-00001" summary="addded classes and code">
+      <created>1621049331433</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621049331433</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,5 +154,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="addded classes and code" />
+    <option name="LAST_COMMIT_MESSAGE" value="addded classes and code" />
   </component>
 </project>
