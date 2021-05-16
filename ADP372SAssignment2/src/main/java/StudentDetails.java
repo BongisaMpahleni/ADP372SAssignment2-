@@ -1,3 +1,5 @@
+import com.sun.jdi.Value;
+
 import java.util.Map;
 import java.util.HashMap;
 import java.util.ArrayList;
@@ -18,6 +20,7 @@ public class StudentDetails {
         System.out.println(studentDetail1);
     }
 
+
     public void remove1(String object) {
         System.out.println("Remove name");
         studentDetail1 .remove(object);
@@ -25,7 +28,6 @@ public class StudentDetails {
         System.out.println("Object is being removed");
         System.out.println(studentDetail1 );
     }
-
 
     public String find1(String object) {
         System.out.println("student name check");
@@ -85,35 +87,35 @@ public class StudentDetails {
         }
 
 
-    Map studentDetail4 = new HashMap();
+    Map<String, String> studentDetail4 = new HashMap();
 
-    public void add4(int index, String value) {
-        studentDetail4.put(index, value);
+    public void add4(String key, String value) {
+        studentDetail4.put(key, value);
 
         System.out.println(studentDetail4);
     }
 
-    public void find4(int index) {
+    public void find4(String key, String value) {
         System.out.println("===Search");
-        try {
-            studentDetail4.get(index);
-            System.out.println("Finding....");
-            System.out.println(index);
+        if (studentDetail4.containsValue(value) ) {
 
-        } catch (Exception e) {
+            System.out.println("Finding....");
+            System.out.println(value+"exist");
+
+        }else {
             System.out.println("No results");
         }
 
 
-        System.out.println(studentDetail4.get(index)+" was found ");
+        System.out.println(studentDetail4.get(key)+" was found ");
 
     }
 
-    public void delete4(String object) {
+    public void remove4() {
+        studentDetail4.clear();
+
         System.out.println("===Removed===");
-        studentDetail4.remove(object);
-        System.out.println("===object has been removed");
-        System.out.println(studentDetail4);
+
     }
 
 
